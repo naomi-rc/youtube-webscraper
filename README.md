@@ -11,3 +11,7 @@ Python librairies used:
 - urllib.requests
 - time
 - BeautfulSoup
+
+
+Created using Google Colab.
+The python script is also directly included.
